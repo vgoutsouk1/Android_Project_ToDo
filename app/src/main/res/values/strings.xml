@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Todo_or_not_lab2</string>
+    <string name="app_name2"> To Do or not to do?</string>
+    <string name="prompt_spinner">choose a list</string>
+</resources>
